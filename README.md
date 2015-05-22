@@ -1,5 +1,7 @@
 # ms
 espectrometria de masas
+
+
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WidmoMS.gif/540px-WidmoMS.gif)
 
 La espectrometría de masas es una técnica de análisis que permite la medición de moléculas. El espectrómetro de masas es un artefacto que permite analizar con gran precisión la composición de diferentes elementos químicos e isótopos atómicos, separando los núcleos atómicos en función de su relación carga-masa (z/m). Puede utilizarse para identificar los diferentes elementos químicos que forman un compuesto, o para determinar el contenido isotópico de diferentes elementos en un mismo compuesto. Con frecuencia se encuentra como detector de un cromatógrafo de gases, en una técnica híbrida conocida por sus iniciales en inglés, GC-MS.
